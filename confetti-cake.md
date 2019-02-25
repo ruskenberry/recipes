@@ -8,7 +8,7 @@ Tags: untested, dessert
 
 Servings: 10
 
-# for the batter:
+### for the batter:
 * 2 cups|447 grams granulated sugar
 * 1 teaspoon vanilla extract
 * 3 large eggs
@@ -21,7 +21,7 @@ Servings: 10
 * 1 ½ cups|341 grams whole milk
 * 3/4 cup rainbow sprinkles
 
-# for the buttercream
+### for the buttercream
 * 1 ½ cups|350 grams granulated sugar
 * 6 ounces egg whites (about 5 eggs)
 * 36 tablespoons|509 grams unsalted butter, softened
@@ -41,4 +41,4 @@ Servings: 10
 
 * To assemble the cake, place one layer on a plate. Top with about 1 cup of frosting, spreading it into an even layer. Top with another cake layer and another cup of frosting, then the final cake layer. Spread the frosting all over the top and sides of the cake, then “dust” the sides with the remaining sprinkles.
 
-## My thoughts
+# My thoughts

@@ -6,7 +6,7 @@ Tags: untested, wings
 
 ## Ingredients
 
-# Buttermilk Marinade
+### Buttermilk Marinade
 * 2 cups buttermilk
 * 1 small shallot, peeled and sliced
 * 1/2 small jalapeno, halved
@@ -14,7 +14,7 @@ Tags: untested, wings
 * 2 teaspoons salt
 * 1/4 teaspoon freshly ground black pepper
 
-# Seasoned Flour
+### Seasoned Flour
 * 3 1/2 cups flour
 * 4 teaspoons baking powder
 * 3 teaspoons kosher salt
@@ -23,18 +23,18 @@ Tags: untested, wings
 * 1 teaspoon cayenne
 * 1 teaspoon celery salt
 
-# Hawt Slaw
+### Hawt Slaw
 * Shredded Cabbage (Slaw Mix)
 * Louisiana Hot Sauce
 * Buttermilk Herb Mayo
 
-# Hot Spice Mix
+### Hot Spice Mix
 * 2 teaspoons cayenne pepper
 * 1 teaspoons Guajillo pepper
 * 1/2 teaspoons brown sugar
 * 1/4 teaspoons kosher salt
 
-# Sandwichs
+### Sandwichs
 * 2 thinly sliced, skinless boneless chicken breasts, about 6 oz. each, halved crosswise.
 * Canola oil for deep-frying
 * Potato buns (Martins)
@@ -42,10 +42,10 @@ Tags: untested, wings
 
 ## Directions
 
-# For the Buttermilk Marinade:
+### For the Buttermilk Marinade:
 * Mix together all ingredients in a medium bowl. Set aside.
 
-# For the Seasoned Flour:
+### For the Seasoned Flour:
 * Whisk together all ingredients in a deep wide dish. Set aside.
 
 * Add the chicken breats to the bowl of buttermilk marinade. Cover and marinate in the refrigerator for at least 1 hourand up to 8 hours.
@@ -61,4 +61,4 @@ Tags: untested, wings
 * Spread the Buttermilk Herd Mayo on the bottom of the bun. Add 3 pickle slices and a quarter of the shredded lettuce. Transfer the chicken to the repared buns and serve.
 
 
-## My thoughts
+### My thoughts

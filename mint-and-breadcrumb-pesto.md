@@ -8,7 +8,7 @@ Tags: untested
 
 Servings: 6
 
-# for the mint and bread crumb pesto:
+### for the mint and bread crumb pesto:
 * 7 ounces basil leaves
 * 2 ounces parsley leaves
 * 4 ounces mint leaves
@@ -18,7 +18,7 @@ Servings: 6
 * generous 1/2 cup freshly grated Parmigiano-Reggiano cheese
 * 1 tablespoon sea salt
 
-# for the pasta:
+### for the pasta:
 * 1 tablespoon coarse salt
 * 1 pound|600 grams fusilli pasta or other short pasta
 * freshly grated Parmigiano-Reggiano cheese, for serving
@@ -29,4 +29,4 @@ Servings: 6
 
 * Prepare the pasta: Bring a large pot of lightly salted water to a boil over medium heat. Add the fusilli and cook until al dente. Toss the pasta with the pesto. Sprinkle with the grated Parmigiano and serve.
 
-## My thoughts
+# My thoughts
